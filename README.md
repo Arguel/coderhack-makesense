@@ -1,6 +1,9 @@
 # coderhack-makesense
 
-Hackathon organized by Coderhouse and Makesense
+<p align="center">
+    <img src="https://i.imgur.com/8VrkzBT.png" alt="coderhack21-image" height="300">
+</p>
+<p align="center">Hackathon organized by Coderhouse and Makesense</p>
 
 ## Links related to the project
 
