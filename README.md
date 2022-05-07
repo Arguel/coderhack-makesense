@@ -21,9 +21,9 @@
 
 ## Images
 <p align="center">
-    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/trello-coderhack.png" alt="" height="300">
-    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/figma-Coderhack-Makesense.png" alt="" height="400">
-    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/whimsical-coderhack.png" alt="" height="400">
+    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/trello-coderhack.png" alt="" height="200">
+    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/figma-Coderhack-Makesense.png" alt="" height="300">
+    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/whimsical-coderhack.png" alt="" height="300">
 </p>
 
 
