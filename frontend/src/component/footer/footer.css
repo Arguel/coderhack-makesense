@@ -1,0 +1,41 @@
+.footer{    
+    height: 349px;
+    padding: 63px 143px;
+    background-color: var(--azul-Claro02);
+    color: aliceblue;
+}
+
+.footer__container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__section{
+    width: 319px;
+}
+
+.footer__title{
+    font-size: 20px;
+    margin-bottom: 38px;
+}
+
+.footer__subcraise{
+    text-align: center;
+}
+
+.footer__button{
+    padding: 20px 52px;
+    border: 0;
+    border-radius: 32px;
+
+    font-size: 18px;
+    font-weight: 800;
+    cursor: pointer;
+    color: white;
+    background-color: var(--naranja);
+}
+
+.copyright{
+    text-align: center;
+}
+

@@ -1,0 +1,21 @@
+
+.register__google{
+    display: flex;
+    align-items: center;
+    width: 290px;
+    height: 64px;
+    padding: 16px;
+    margin: 40px auto 0;
+    border-radius: 32px;
+    font-size: 20px;
+    background-color: white;
+    color: black;    
+
+    box-shadow:0 -50px 0px -31px  white;    
+}
+
+.register__logo-google{
+    width: 36px;
+    margin-right: 12px;
+    border-radius: 20px;    
+}

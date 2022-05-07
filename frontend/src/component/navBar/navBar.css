@@ -1,0 +1,10 @@
+.nav__container{
+    display: flex;
+    font-weight: 900;
+}
+
+.nav__item{
+    margin: 0 16px;
+
+    font-weight: 800;
+}
