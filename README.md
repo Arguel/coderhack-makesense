@@ -1,7 +1,7 @@
 # coderhack-makesense
 
 <p align="center">
-    <img src="https://i.imgur.com/8VrkzBT.png" alt="coderhack21-image" height="300">
+    <img src="https://i.imgur.com/8VrkzBT.png" alt="coderhack image" height="300">
 </p>
 <p align="center">Hackathon organized by Coderhouse and Makesense</p>
 
@@ -22,9 +22,9 @@
 ## Images
 
 <p align="center">
-    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/trello-coderhack.png" alt="" height="200">
-    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/figma-Coderhack-Makesense.png" alt="" height="300">
-    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/whimsical-coderhack.png" alt="" height="300">
+    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/trello-coderhack.png" alt="trello image" height="200">
+    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/figma-Coderhack-Makesense.png" alt="figma image" height="300">
+    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/whimsical-coderhack.png" alt="whimsical image" height="300">
 </p>
 
 ## Authors
