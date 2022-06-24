@@ -11,7 +11,7 @@
 - [Trello](https://trello.com/b/KPMWGGfl/coderhack)
 - [Whimsical](https://whimsical.com/coderhack-08-3GvtfiKtGvfJ1WchosMMg3)
 - [Coderhouse form](https://coderhouse.typeform.com/to/TJaIc3CF)
-- [Original repository](https://github.com/Rocio-B-Coder/Equipo8/)
+- [Original repository](https://github.com/Rocio-B-Coder/Equipo8/) (only active during the week of participation)
 - [Figma](https://www.figma.com/file/4Jxxf2RpIV9OBMOiTIgXEe/Coderhack-Makesense)
 - [Figma prototype](https://www.figma.com/proto/4Jxxf2RpIV9OBMOiTIgXEe/Coderhack-Makesense?node-id=104%3A2041&scaling=scale-down&page-id=0%3A1&starting-point-node-id=104%3A2041)
 - [Makesense mx](https://www.linkedin.com/company/makesense-mx/)
