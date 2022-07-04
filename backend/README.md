@@ -4,7 +4,7 @@
 
 ---
 
-⌨️ con ❤️ por [Enzo](https://github.com/Arguel), [Ariel](https://github.com/Ariel2911), [Daniel](https://github.com/DmStudioMp), [Juan Martin](https://github.com/jmr85)😊
+⌨️ con ❤️ por [Enzo](https://github.com/enzoarguello512), [Ariel](https://github.com/Ariel2911), [Daniel](https://github.com/DmStudioMp), [Juan Martin](https://github.com/jmr85)😊
 
 ### Implementaciones activas:
 

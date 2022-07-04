@@ -22,9 +22,9 @@
 ## Images
 
 <p align="center">
-    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/trello-coderhack.png" alt="trello image" height="200">
-    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/figma-Coderhack-Makesense.png" alt="figma image" height="300">
-    <img src="https://github.com/Arguel/coderhack-makesense/blob/main/images/whimsical-coderhack.png" alt="whimsical image" height="300">
+    <img src="https://github.com/enzoarguello512/coderhack-makesense/blob/main/images/trello-coderhack.png" alt="trello image" height="200">
+    <img src="https://github.com/enzoarguello512/coderhack-makesense/blob/main/images/figma-Coderhack-Makesense.png" alt="figma image" height="300">
+    <img src="https://github.com/enzoarguello512/coderhack-makesense/blob/main/images/whimsical-coderhack.png" alt="whimsical image" height="300">
 </p>
 
 ## Authors
@@ -37,5 +37,5 @@ Pd: Si me falta alguien o si hay algún dato desactualizado avísenme jeje
 - [Silvia](https://www.linkedin.com/in/silvia-bergoglio-0b940082/) - MARKETING
 - [Daniel](https://github.com/DmStudioMp) - BACK END
 - [Ariel](https://github.com/Ariel2911) - FRONT END
-- [Enzo](https://github.com/Arguel) - BACK END
+- [Enzo](https://github.com/enzoarguello512) - BACK END
 - [Juan Martin](https://github.com/jmr85) - FRONT END
