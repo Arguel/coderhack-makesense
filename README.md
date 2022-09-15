@@ -29,11 +29,9 @@
 
 ## Authors
 
-Pd: Si me falta alguien o si hay algún dato desactualizado avísenme jeje
-
-- [Florencia](https://www.linkedin.com/in/maria-florencia-arcidiacono-415049150/) - DISEÑO GRAFICO
-- [Alicia](https://www.linkedin.com/in/aliciavillarrealcastro/) - PRODUCTO
-- [Maite](https://www.linkedin.com/in/maite-marconi/) - DISEÑO UX/UI
+- [Florencia](https://www.linkedin.com/in/maria-florencia-arcidiacono-415049150/) - GRAPHIC DESIGN
+- [Alicia](https://www.linkedin.com/in/aliciavillarrealcastro/) - PRODUCT
+- [Maite](https://www.linkedin.com/in/maite-marconi/) - UX/UI DESIGN
 - [Silvia](https://www.linkedin.com/in/silvia-bergoglio-0b940082/) - MARKETING
 - [Daniel](https://github.com/DmStudioMp) - BACK END
 - [Ariel](https://github.com/Ariel2911) - FRONT END
