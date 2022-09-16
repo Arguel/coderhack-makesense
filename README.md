@@ -22,6 +22,8 @@
 ## Images
 
 <p align="center">
+    <img src="https://user-images.githubusercontent.com/75096734/190799031-533fc8ce-52fc-4f03-944c-c7e22b386503.png" alt="Sing up flow" height="400">
+    <img src="https://user-images.githubusercontent.com/75096734/190799894-e6dc5619-1d15-4152-9274-7ff4a1956cf5.png" alt="Challenge flow" height="400">
     <img src="https://github.com/enzoarguello512/coderhack-makesense/blob/main/images/trello-coderhack.png" alt="trello image" height="200">
     <img src="https://github.com/enzoarguello512/coderhack-makesense/blob/main/images/figma-Coderhack-Makesense.png" alt="figma image" height="300">
     <img src="https://github.com/enzoarguello512/coderhack-makesense/blob/main/images/whimsical-coderhack.png" alt="whimsical image" height="300">
