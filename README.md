@@ -29,6 +29,8 @@
     <img src="https://github.com/enzoarguello512/coderhack-makesense/blob/main/images/whimsical-coderhack.png" alt="whimsical image" height="300">
 </p>
 
+View more images and contents in the [graphic design folder](https://github.com/enzoarguello512/coderhack-makesense/tree/main/Dise%C3%B1o%20Gr%C3%A1fico%20Makesense)
+
 ## Authors
 
 - [Florencia](https://www.linkedin.com/in/maria-florencia-arcidiacono-415049150/) - GRAPHIC DESIGN
