@@ -6,7 +6,7 @@
 <p align="center">Hackathon organized by Coderhouse and Makesense</p>
 
 ## Links related to the project
-
+- [Vercel deploy](https://coderhack-makesense.vercel.app/) (new)
 - [Heroku app](https://coderhack-equipo8.herokuapp.com/)
 - [Trello](https://trello.com/b/KPMWGGfl/coderhack)
 - [Whimsical](https://whimsical.com/coderhack-08-3GvtfiKtGvfJ1WchosMMg3)
