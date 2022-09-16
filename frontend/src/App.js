@@ -1,27 +1,25 @@
-import { BrowserRouter,Switch,Route,} from "react-router-dom";
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 import './App.css';
-import Header from './component/header/header'
-import Main from './component/main/main'
-import Footer from './component/footer/footer'
-import Error404 from "./component/error404/error404";
+import Header from './component/header/header';
+import Main from './component/main/main';
+import Footer from './component/footer/footer';
+import Error404 from './component/error404/error404';
 
 function App() {
   return (
     <div>
       <BrowserRouter>
-        <Header/>
+        <Header />
 
         <Switch>
+          <Route exact path="/">
+            <Main />
+          </Route>
 
-          <Route exact path='/make_sense'> 
-            <Main/> 
-          </Route> 
-          
-          <Error404/>         
-
+          <Error404 />
         </Switch>
-        <Footer/>
+        <Footer />
       </BrowserRouter>
     </div>
   );
